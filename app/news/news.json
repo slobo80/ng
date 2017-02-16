@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "text": "SpeakerregistrationstartsonJune1.",
+        "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg",
+        "date": "2/13/2017"
+    },
+    {
+        "id": "2",
+        "text": "AttendeeregistrationstartsonJuly1.",
+        "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg",
+        "date": "2/14/2017"
+    },
+    {
+        "id": "3",
+        "text": "CodeCampstartsonSeptember13.",
+        "imageUrl": "img/phones/dell-streak-7.0.jpg",
+        "date": "2/16/2017"
+    }
+]
